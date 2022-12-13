@@ -1,3 +1,4 @@
 # open-day-landing-page
-## Customize google form to create a open day landing page
+
+>  Create a landing page for open day and customize google form
 
